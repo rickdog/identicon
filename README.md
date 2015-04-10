@@ -43,6 +43,4 @@ Identicon
         http://localhost:8080/9block?code=-2034984870&size=64
         http://localhost:8080/9block?code=-2034954870&size=64
         http://localhost:8080/9block?code=-2034894870&size=64
-        
- "Bitdeli Badge")
 
