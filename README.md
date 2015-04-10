@@ -44,7 +44,5 @@ Identicon
         http://localhost:8080/9block?code=-2034954870&size=64
         http://localhost:8080/9block?code=-2034894870&size=64
         
-
-
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/pauloubuntu/identicon/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+ "Bitdeli Badge")
 
